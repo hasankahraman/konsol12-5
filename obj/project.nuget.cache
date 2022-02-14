@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+81reiz4CwNlMHXVdPuZak3KV8wQ8XseBick1E8iBP8RcgBXSXOfV9D/98db8YOmNUTzX51v+dFyzfv4Fi3Xxg==",
+  "success": true,
+  "projectFilePath": "E:\\patika\\practises\\konsol12-5\\konsol12-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
